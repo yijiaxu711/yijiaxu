@@ -4,15 +4,32 @@
 ## 🧭 Project Overview
 This research project investigates cross-national trends in school bullying in the aftermath of the COVID-19 pandemic. Drawing on large-scale, representative data from the Programme for International Student Assessment (PISA) in 2018 and 2022, the study examines changes in the prevalence of bullying victimization among adolescents across 80 countries. It further explores the associations between bullying victimization and science-mathematics achievement, with particular attention to gender-based differences.
 
+
 ## 📂 Data and Scope
 - **Data Sources**:  
   - [PISA 2018 Student Questionnaire Data (OECD)](https://www.oecd.org/pisa/data/2018database/)
   - [PISA 2022 Student Questionnaire Data (OECD)](https://www.oecd.org/pisa/data/2022database/)
+    
 - **Sample**: Approximately 600,000 15-year-old students per cycle across 80 participating countries or economies.
-- **Key Variables**:  
-  - `BULLIED` / `BEINGBULLIED`: Self-reported indicators of bullying victimization  
-  - `PV1MATH`–`PV5MATH`, `PV1SCIE`–`PV5SCIE`: Science and mathematics achievement  
-  - Gender (recoded for binary comparison)
+  
+- **Key Variables Description**
+### 🎯 Dependent Variable (因变量)
+- `BULLIED` / `BEINGBULLIED`  
+  - **Description**: Self-reported indicator of whether the student experiences bullying victimization.  
+  - **Type**: Binary (e.g., 0 = Not Bullied, 1 = Bullied)
+
+### 📈 Independent Variables (自变量)
+- `PV1MATH` – `PV5MATH`  
+  - **Description**: Five plausible values representing mathematics achievement.  
+  - **Use**: For imputation or averaged as a predictor of academic performance.
+
+- `PV1SCIE` – `PV5SCIE`  
+  - **Description**: Five plausible values representing science achievement.  
+  - **Use**: Same as above, representing performance in science.
+
+- `Gender`  
+  - **Description**: Re-coded binary gender variable.  
+  - **Type**: Binary (e.g., 0 = Male, 1 = Female)
 
 ## 🔬 Methodological Approach
 Data analysis was conducted using IBM SPSS 24 and Stata MP 18. The following methods were employed:
