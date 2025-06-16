@@ -6,19 +6,19 @@ This research project investigates cross-national trends in school bullying in t
 
 
 ## 📂 Data and Scope
-- **Data Sources**:  
+**Data Sources**:  
   - [PISA 2018 Student Questionnaire Data (OECD)](https://www.oecd.org/pisa/data/2018database/)
   - [PISA 2022 Student Questionnaire Data (OECD)](https://www.oecd.org/pisa/data/2022database/)
     
-- **Sample**: Approximately 600,000 15-year-old students per cycle across 80 participating countries or economies.
+**Sample**: Approximately 600,000 15-year-old students per cycle across 80 participating countries or economies.
   
-- **Key Variables Description**
-### 🎯 Dependent Variable 
+**Key Variables Description**
+-### 🎯 Dependent Variable 
 - `BULLIED` / `BEINGBULLIED`  
   - **Description**: Self-reported indicator of whether the student experiences bullying victimization.  
   - **Type**: Binary (e.g., 0 = Not Bullied, 1 = Bullied)
 
-### 📈 Independent Variables 
+-### 📈 Independent Variables 
 - `PV1MATH` – `PV5MATH`  
   - **Description**: Five plausible values representing mathematics achievement.  
   - **Use**: For imputation or averaged as a predictor of academic performance.
