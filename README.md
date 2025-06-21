@@ -1,30 +1,29 @@
-# Comparative Education Research Projects  
-**Graduate Portfolio | Large-Scale International Assessment Studies**
+<h2>📘 My Top Projects</h2>
 
-This repository presents a collection of empirical research projects focusing on international education policy, inequality, student well-being, and academic outcomes. All studies are based on large-scale datasets such as PISA and align with comparative and international education frameworks.
+<!-- 项目 1 -->
+<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:10px;">
+  <h3 style="margin:0;">🎓 School Bullying Trends in the Post-Pandemic Era</h3>
+  <p style="margin:4px 0;">Cross-national analysis using PISA 2018 & 2022 data to explore bullying prevalence and gender patterns across 80 countries.</p>
+  <a href="https://github.com/yourusername/school-bullying-trends" style="color:white; font-weight:bold;">🔗 View Project</a>
+</div>
 
-## 📚 Project Overview
+<!-- 项目 2 -->
+<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:10px;">
+  <h3 style="margin:0;">🎬 Movie Revenue Prediction Web App</h3>
+  <p style="margin:4px 0;">A machine learning app predicting box office revenue using XGBoost, Ridge Regression, and FastAPI.</p>
+  <a href="https://github.com/yourusername/movie-revenue-prediction" style="color:white; font-weight:bold;">🔗 View Project</a>
+</div>
 
-### 1. 📘 School Bullying Trends in the Post-Pandemic Era
-- **Dataset**: PISA 2018 & 2022
-- **Focus**: Cross-national trends in bullying victimization, gender disparities, and academic achievement
-- **Policy Relevance**: Highlights the need for post-pandemic anti-bullying interventions
-- 🔗 [View Project](./school-bullying-trends/README.md)
+<!-- 项目 3 -->
+<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:10px;">
+  <h3 style="margin:0;">📊 Substance Use Facility Survey Analysis</h3>
+  <p style="margin:4px 0;">Exploratory analysis of N-SUMHSS data (2021-2022) to understand public health service trends in the U.S.</p>
+  <a href="https://github.com/yourusername/n-sumhss-analysis" style="color:white; font-weight:bold;">🔗 View Project</a>
+</div>
 
----
-
-### 2. 📗 Digital Inequality and Educational Access
-- **Dataset**: PISA 2018
-- **Focus**: Access to ICT resources and its effect on learning across income groups
-- **Policy Relevance**: Supports digital inclusion initiatives in low- and middle-income countries
-- 🔗 [View Project](./digital-inequality-pisa/README.md)
-
----
-
-### 3. 📕 SDG4 Monitoring: Equity in Global Education Goals
-- **Dataset**: PISA & UNESCO UIS
-- **Focus**: Cross-country performance in achieving inclusive, equitable education
-- **Policy Relevance**: Informs global progress tracking and development priorities under SDG4
-- 🔗 [View Project](./sdg4-compliance-analysis/README.md)
-
-
+<!-- 项目 4 -->
+<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:10px;">
+  <h3 style="margin:0;">🗣️ Youth Voice Against Violence</h3>
+  <p style="margin:4px 0;">A literature-based project analyzing the role of youth in violence prevention through YPAR and UNCRC frameworks.</p>
+  <a href="https://github.com/yourusername/youth-voice-violence" style="color:white; font-weight:bold;">🔗 View Project</a>
+</div>
