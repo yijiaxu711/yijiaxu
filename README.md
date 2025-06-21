@@ -1,29 +1,21 @@
-<h2 align="center">📘 Featured Projects</h2>
+[![School Bullying Trends](https://img.shields.io/badge/🎓%20School%20Bullying%20Trends-blue?style=for-the-badge&logoColor=white)](https://github.com/yourusername/school-bullying-trends)  
+Cross-national analysis using PISA 2018 and 2022 data to examine bullying prevalence and its relation to gender and achievement.  
+➡️ [View on GitHub](https://github.com/yourusername/school-bullying-trends)
 
-<!-- 卡片 1 -->
-<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:12px;">
-  <h3 style="margin:0;">🎓 School Bullying Trends in the Post-Pandemic Era</h3>
-  <p style="margin:4px 0;">Cross-national analysis using PISA 2018 and 2022 data to examine bullying prevalence and its relation to gender and achievement across 80 countries.</p>
-  <a href="https://github.com/yourusername/school-bullying-trends" style="color:white; font-weight:bold;">🔗 View on GitHub</a>
-</div>
+---
 
-<!-- 卡片 2 -->
-<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:12px;">
-  <h3 style="margin:0;">🎬 Movie Revenue Prediction Web App</h3>
-  <p style="margin:4px 0;">A machine learning project predicting box office revenue using XGBoost, Ridge regression, and FastAPI backend with a user-facing web interface.</p>
-  <a href="https://github.com/yourusername/movie-revenue-prediction" style="color:white; font-weight:bold;">🔗 View on GitHub</a>
-</div>
+[![Movie Revenue Prediction](https://img.shields.io/badge/🎬%20Movie%20Revenue%20Prediction-blue?style=for-the-badge&logoColor=white)](https://github.com/yourusername/movie-revenue-prediction)  
+Predicting box office revenue using XGBoost, Ridge regression, and FastAPI backend.  
+➡️ [View on GitHub](https://github.com/yourusername/movie-revenue-prediction)
 
-<!-- 卡片 3 -->
-<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:12px;">
-  <h3 style="margin:0;">📊 Substance Use Survey Analysis</h3>
-  <p style="margin:4px 0;">R-based data analysis of U.S. substance use and mental health service facilities from the 2021–2022 N-SUMHSS survey, focusing on attrition and service type.</p>
-  <a href="https://github.com/yourusername/n-sumhss-analysis" style="color:white; font-weight:bold;">🔗 View on GitHub</a>
-</div>
+---
 
-<!-- 卡片 4 -->
-<div align="left" style="background-color:#007acc; color:white; padding:16px; border-radius:12px; margin-bottom:12px;">
-  <h3 style="margin:0;">🗣️ Youth Voice Against Violence</h3>
-  <p style="margin:4px 0;">A literature review exploring how youth-led initiatives and participatory research (YPAR) contribute to violence prevention and policy under UNCRC.</p>
-  <a href="https://github.com/yourusername/youth-voice-violence" style="color:white; font-weight:bold;">🔗 View on GitHub</a>
-</div>
+[![Substance Use Survey Analysis](https://img.shields.io/badge/📊%20Substance%20Use%20Survey%20Analysis-blue?style=for-the-badge&logoColor=white)](https://github.com/yourusername/n-sumhss-analysis)  
+R-based analysis of U.S. substance and mental health facilities using 2021–2022 N-SUMHSS data.  
+➡️ [View on GitHub](https://github.com/yourusername/n-sumhss-analysis)
+
+---
+
+[![Youth Voice Against Violence](https://img.shields.io/badge/🗣️%20Youth%20Voice%20Against%20Violence-blue?style=for-the-badge&logoColor=white)](https://github.com/yourusername/youth-voice-violence)  
+Literature review on youth participation in violence prevention via YPAR and UNCRC frameworks.  
+➡️ [View on GitHub](https://github.com/yourusername/youth-voice-violence)
