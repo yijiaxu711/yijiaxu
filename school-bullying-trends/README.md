@@ -13,12 +13,12 @@ This research project investigates cross-national trends in school bullying in t
 **Sample**: Approximately 600,000 15-year-old students per cycle across 80 participating countries or economies.
   
 **Key Variables Description**
--### 🎯 Dependent Variable 
+### 🎯 Dependent Variable 
 - `BULLIED` / `BEINGBULLIED`  
   - **Description**: Self-reported indicator of whether the student experiences bullying victimization.  
   - **Type**: Binary (e.g., 0 = Not Bullied, 1 = Bullied)
 
--### 📈 Independent Variables 
+### 📈 Independent Variables 
 - `PV1MATH` – `PV5MATH`  
   - **Description**: Five plausible values representing mathematics achievement.  
   - **Use**: For imputation or averaged as a predictor of academic performance.
