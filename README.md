@@ -1,4 +1,4 @@
-# Comparative Education Research Projects  
+# Education Research Projects  
 **Graduate Portfolio | Large-Scale International Assessment Studies**
 
 This repository presents a collection of empirical research projects focusing on international education policy, inequality, student well-being, and academic outcomes. All studies are based on large-scale datasets such as PISA and align with comparative and international education frameworks.
@@ -29,14 +29,9 @@ This repository presents a collection of empirical research projects focusing on
 
 ---
 
-## 🧑‍🎓 Author  
-Yijia Xu  
-Master's student in Educational Theory & Policy  
-The Pennsylvania State University
-
-## ✨ Acknowledgements  
-Special thanks to Professor Soo-yong Byun and the EDTHP 585 course for project guidance.  
-All data used in these studies were sourced from publicly available international education datasets (OECD, UNESCO, etc.).
-
----
+### 4. 📕 SDG4 Monitoring: Equity in Global Education Goals
+- **Dataset**: PISA & UNESCO UIS
+- **Focus**: Cross-country performance in achieving inclusive, equitable education
+- **Policy Relevance**: Informs global progress tracking and development priorities under SDG4
+- 🔗 [View Project](./sdg4-compliance-analysis/README.md)
 
