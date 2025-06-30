@@ -50,9 +50,3 @@ The study finds that many Chinese women are no longer simply delaying marriage a
 
 ---
 
-## 🛠 Skills Demonstrated
-
-- Academic writing and framing
-- Cross-language literature synthesis (English & Chinese)
-- Sociological theory application
-- Data interpretation and visualization
