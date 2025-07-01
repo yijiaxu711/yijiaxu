@@ -1,4 +1,4 @@
-# ♀️ The Awakening of Women’s Consciousness and Fertility Behavior in China
+# The Awakening of Women’s Consciousness and Fertility Behavior in China
 
 ---
 
