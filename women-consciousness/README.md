@@ -46,7 +46,7 @@ The study finds that many Chinese women are no longer simply delaying marriage a
 
 As China undergoes the Second Demographic Transition, the total fertility rate (TFR) has fallen sharply despite the removal of restrictive birth policies.
 
-<img src="assets/tfr_china.png" width="600"/>
+<img src="tfr_china.png" width="600"/>
 
 *Figure: China’s total fertility rate (TFR), 2000–2022. Source: UN & National Bureau of Statistics.*
 
