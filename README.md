@@ -28,9 +28,13 @@ This repository presents a collection of empirical research projects focusing on
 
 ---
 
-## 4. 📕 SDG4 Monitoring: Equity in Global Education Goals
-- **Dataset**: PISA & UNESCO UIS
-- **Focus**: Cross-country performance in achieving inclusive, equitable education
-- **Policy Relevance**: Informs global progress tracking and development priorities under SDG4
-- 🔗 [View Project](./sdg4-compliance-analysis/README.md)
+## 4. ## ♀️ The Awakening of Women’s Consciousness and Fertility Behavior in China
+
+**Dataset**: Literature review and national fertility statistics (UN, NBS, scholarly sources)  
+**Focus**: This project explores how rising gender consciousness among Chinese women influences fertility intentions and resistance to state-led pronatalist policies. It situates the issue within broader trends of educational attainment, delayed marriage, and shifting gender norms.  
+**Framework**: Guided by the **Second Demographic Transition (SDT)** and **Gender Revolution Theory**, the study synthesizes both Chinese- and English-language academic literature to examine how personal autonomy and structural inequality intersect.  
+**Key Insight**: Many women are not only delaying childbirth but actively rejecting traditional family roles, signaling a conscious pushback against unequal gender expectations.  
+**Policy Relevance**: Highlights the need for fertility policies that go beyond economic incentives and address **structural gender inequality**, reproductive autonomy, and work-life balance to truly support women’s choices.
+
+🔗 **[View Project](./women-consciousness/)**
 
