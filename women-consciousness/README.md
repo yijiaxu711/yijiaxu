@@ -10,7 +10,13 @@ This research investigates how rising gender consciousness among Chinese women i
 
 ## 📖 Introduction
 
-In recent years, China has experienced an unprecedented decline in fertility, with the total fertility rate (TFR) falling to 1.09 in 2022. Despite the relaxation of birth control policies, Chinese women are increasingly reluctant to conform to traditional family norms. This research explores the cultural, educational, and institutional factors driving this transformation. It asks: **How has the rise in gender awareness reshaped women’s views on childbearing in post-reform China?**
+In recent years, China has experienced an unprecedented decline in fertility, with the total fertility rate (TFR) falling to **1.09 in 2022**, despite the relaxation of birth control policies. This demographic downturn has triggered national concern, yet many Chinese women remain reluctant to conform to traditional family norms. Instead, they increasingly prioritize personal development, education, and autonomy.
+
+<img src="/tfr_china.png" width="600"/>
+
+*Figure: China's total fertility rate (TFR), 2000–2022. The sharp decline reflects changing gender values and institutional discontent.*
+
+This research explores the cultural, educational, and institutional factors driving this transformation. It asks: **How has the rise in gender consciousness reshaped women’s views on childbearing in post-reform China?**
 
 ---
 
@@ -39,16 +45,6 @@ This is a qualitative literature synthesis drawing from both **Chinese-language 
 ## ✅ Conclusion
 
 The study finds that many Chinese women are no longer simply delaying marriage and childbirth due to structural barriers—they are **actively choosing not to follow traditional expectations**. This choice reflects a broader **awakening of feminist consciousness** and a rejection of state-driven pronatalist rhetoric that fails to address structural gender inequality. The state's economic incentives remain inadequate in the face of rising demands for gender justice, work-life balance, and personal autonomy.
-
----
-
-## 📈 Fertility Trends in China
-
-As China undergoes the Second Demographic Transition, the total fertility rate (TFR) has fallen sharply despite the removal of restrictive birth policies.
-
-<img src="tfr_china.png" width="600"/>
-
-*Figure: China’s total fertility rate (TFR), 2000–2022. Source: UN & National Bureau of Statistics.*
 
 ---
 
