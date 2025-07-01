@@ -12,7 +12,7 @@ This research investigates how rising gender consciousness among Chinese women i
 
 In recent years, China has experienced an unprecedented decline in fertility, with the total fertility rate (TFR) falling to **1.09 in 2022**, despite the relaxation of birth control policies. This demographic downturn has triggered national concern, yet many Chinese women remain reluctant to conform to traditional family norms. Instead, they increasingly prioritize personal development, education, and autonomy.
 
-<img src="/tfr_china.png" width="600"/>
+<img src="tfr_china.png" width="600"/>
 
 *Figure: China's total fertility rate (TFR), 2000–2022. The sharp decline reflects changing gender values and institutional discontent.*
 
