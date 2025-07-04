@@ -10,7 +10,8 @@ This research project investigates cross-national trends in school bullying in t
   - [PISA 2018 Student Questionnaire Data (OECD)](https://www.oecd.org/pisa/data/2018database/)
   - [PISA 2022 Student Questionnaire Data (OECD)](https://www.oecd.org/pisa/data/2022database/)
     
-### Sample: Approximately 600,000 15-year-old students per cycle across 80 participating countries or economies.
+### Sample: 
+  - Approximately 600,000 15-year-old students per cycle across 80 participating countries or economies.
   
 ### Key Variables Description
 **🎯 Dependent Variable**
