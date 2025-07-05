@@ -38,6 +38,9 @@ Data analysis was conducted using IBM SPSS 24 and Stata MP 18. The following met
 - **Independent sample t-tests** to compare gender differences in victimization and academic achievement.
 - **Ordinary Least Squares (OLS) regression** to assess the relationship between bullying victimization and science-mathematics performance, controlling for gender.
 
+## 💻 Coding Strategy
+
+
 ## 🎓 Key Findings
 1. **Decline in bullying post-pandemic**: A general reduction in bullying victimization was observed across most countries in 2022 compared to 2018.
 2. **Negative academic impact**: Victims of bullying reported significantly lower science-mathematics achievement, highlighting the cognitive and emotional toll of peer victimization.
