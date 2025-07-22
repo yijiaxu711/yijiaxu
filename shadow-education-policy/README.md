@@ -31,6 +31,13 @@ These frameworks inform the analysis of SES-based disparities in tutoring partic
 
 ---
 
+## 💻 Coding Strategy
+
+- Given that Stata operates on a single active dataset at a time, the standard procedure involves separately cleaning data from multiple sources and subsequently merging them into a consolidated analytical dataset using the merge command, thereby facilitating comprehensive and consistent statistical analysis
+- The 2020 wave serves as the baseline, with key variables extracted on children’s demographic characteristics, academic performance, and engagement in shadow education. To construct a longitudinal dataset, child-, person-, and family-level questionnaires were cleaned separately and subsequently merged using Stata’s **merge** command, following the standard practice of consolidating multiple data sources into a single analytical file for unified statistical analysis. Variable codings were harmonized to ensure comparability across waves.
+
+---
+
 ## 🔍 Key Findings
 
 - Subject-based tutoring **increased** slightly after the policy, contrary to expectations  
